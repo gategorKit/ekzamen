@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eurapatea\\Desktop\\Apteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|c:\\users\\eurapatea\\desktop\\apteka\\apteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|solutionrelative:apteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|C:\\Users\\eurapatea\\Desktop\\Apteka\\apteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|solutionrelative:apteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|C:\\Users\\eurapatea\\Desktop\\Apteka\\apteka\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216888CD-4EC6-4C7E-BAF0-647724CAE269}|Apteka\\Apteka.csproj|solutionrelative:apteka\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Class\\Helper.cs",
+              "RelativeDocumentMoniker": "Apteka\\Class\\Helper.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Class\\Helper.cs",
+              "RelativeToolTip": "Apteka\\Class\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:34:06.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Form1.cs",
+              "RelativeDocumentMoniker": "Apteka\\Form1.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Form1.cs",
+              "RelativeToolTip": "Apteka\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:09:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Form1.cs",
+              "RelativeDocumentMoniker": "Apteka\\Form1.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Desktop\\Apteka\\Apteka\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Apteka\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:08:33.877Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 613,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

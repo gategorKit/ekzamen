@@ -1,0 +1,57 @@
+﻿<Window x:Class="TextDataExamen_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextDataExamen_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Background="#F1FFF0" Margin="10,15,10,20" >
+                    <TextBlock Text="Добавить товар:" Margin="10 0 0 0"/>
+                    <UniformGrid Columns="2" Rows="4" Margin="10, 0, 0, 0">
+                        <TextBlock Text="Название" Margin="0 5 0 0"/>
+                        <ComboBox x:Name="cbName" Margin="0,5,5,0" SelectionChanged="cbName_SelectionChanged"/>
+                        <TextBlock Text="Количество" Margin="0 5 0 0"/>
+                        <TextBox x:Name="tbAmount" Margin="0,5,5,0" PreviewTextInput="tbAmount_PreviewTextInput"/>
+                        <TextBlock Text="Цена" Margin="0 5 0 0"/>
+                        <TextBox x:Name="tbPrice" Margin="0,5,5,0" IsReadOnly="True"/>
+                        <TextBlock Text="Скидка(%)" Margin="0 5 0 0"/>
+                        <TextBox x:Name="tbSale" Margin="0,5,5,0" PreviewTextInput="tbSale_PreviewTextInput"/>
+                    </UniformGrid>
+                <Button Background="LawnGreen" Height="25" Margin="0 15 0 0" Content="Добавить" x:Name="btnAdd" Click="btnAdd_Click"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Background="#F1FFF0" Margin="10,100,10,20" >
+                <TextBlock Text="Итог:" Margin="10 0 0 0"/>
+                <UniformGrid Columns="2" Rows="3" Margin="10, 0, 0, 0">
+                    <TextBlock Text="Итог без скидки" Margin="0 5 0 0"/>
+                    <TextBox x:Name="tbTotalNoSaleOutput" Margin="0,5,5,0" IsReadOnly="True"/>
+                    <TextBlock Text="Скидка" Margin="0 5 0 0"/>
+                    <TextBox x:Name="tbSaleOutput" Margin="0,5,5,0" IsReadOnly="True"/>
+                    <TextBlock Text="Итог с скидкой" Margin="0 5 0 0"/>
+                    <TextBox x:Name="tbTotalOutput" Margin="0,5,5,0" IsReadOnly="True"/>
+                </UniformGrid>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1" Margin="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <ScrollViewer Grid.Row="0">
+                <TextBlock Background="#FEFAF9" x:Name="tbTab" ClipToBounds="True" TextWrapping="Wrap" Text=""/>
+            </ScrollViewer>
+            <Button Grid.Row="1" Background="LawnGreen" Height="25" Content="Очистить" x:Name="btnClear" Click="btnClear_Click"/>
+        </Grid>
+        
+    </Grid>
+</Window>

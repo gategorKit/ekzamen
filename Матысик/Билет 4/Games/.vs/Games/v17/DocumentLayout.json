@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\games\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\class\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|c:\\users\\eurapatea\\downloads\\ekzamen-bilets\\ekzamen-bilets\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0431\u0438\u043B\u0435\u0442 4\\games\\games\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\games\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|c:\\users\\eurapatea\\downloads\\ekzamen-bilets\\ekzamen-bilets\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0431\u0438\u043B\u0435\u0442 4\\games\\games\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\games\\formaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\formaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\games\\formaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EB070B-92E0-46E9-A506-6D4E84FDBB05}|Games\\Games.csproj|solutionrelative:games\\formaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "Games\\Model\\Model1.edmx",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Games\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-15T20:43:57.941Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAddGame.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\FormAddGame.cs",
+              "RelativeDocumentMoniker": "Games\\FormAddGame.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\FormAddGame.cs",
+              "RelativeToolTip": "Games\\FormAddGame.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:58:18.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAddGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\FormAddGame.cs",
+              "RelativeDocumentMoniker": "Games\\FormAddGame.cs",
+              "ToolTip": "D:\\\u0411\u0438\u043B\u0435\u0442\u044B01.01\\Games\\Games\\FormAddGame.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:53:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Class\\Helper.cs",
+              "RelativeDocumentMoniker": "Games\\Class\\Helper.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Class\\Helper.cs",
+              "RelativeToolTip": "Games\\Class\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:06:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Form1.cs",
+              "RelativeDocumentMoniker": "Games\\Form1.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Form1.cs",
+              "RelativeToolTip": "Games\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:46:47.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Form1.cs",
+              "RelativeDocumentMoniker": "Games\\Form1.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 4\\Games\\Games\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Games\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:18:41.812Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 613,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

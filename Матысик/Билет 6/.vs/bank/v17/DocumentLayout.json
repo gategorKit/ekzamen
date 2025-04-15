@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|c:\\users\\eurapatea\\downloads\\ekzamen-bilets\\ekzamen-bilets\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0431\u0438\u043B\u0435\u0442 6\\bank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|solutionrelative:bank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|solutionrelative:bank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\classfolder\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9E8B7D-6181-4D10-A29E-7E09D473D602}|bank\\bank.csproj|solutionrelative:bank\\classfolder\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\ClassFolder\\BankAccount.cs",
+              "RelativeDocumentMoniker": "bank\\ClassFolder\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\ClassFolder\\BankAccount.cs",
+              "RelativeToolTip": "bank\\ClassFolder\\BankAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:01:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\Form1.cs",
+              "RelativeDocumentMoniker": "bank\\Form1.cs",
+              "ToolTip": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\Form1.cs",
+              "RelativeToolTip": "bank\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:07:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eurapatea\\Downloads\\ekzamen-bilets\\ekzamen-bilets\\\u041C\u0430\u0442\u044B\u0441\u0438\u043A\\\u0411\u0438\u043B\u0435\u0442 6\\bank\\Form1.cs",
+              "RelativeDocumentMoniker": "bank\\Form1.cs",
+              "ToolTip": "C:\\Users\\XleboMatb\\source\\repos\\bank\\bank\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\XleboMatb\\source\\repos\\bank\\bank\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:04:59.255Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 613,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

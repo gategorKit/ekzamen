@@ -1,0 +1,30 @@
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\bin\Debug\TextDataExamen_3.exe.config
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\bin\Debug\TextDataExamen_3.exe
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\bin\Debug\TextDataExamen_3.pdb
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\App.g.cs
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3_MarkupCompile.cache
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3_MarkupCompile.lref
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\MainWindow.baml
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.g.resources
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.Properties.Resources.resources
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.exe
+C:\Users\aleks\source\repos\TextDataExamen_3\TextDataExamen_3\obj\Debug\TextDataExamen_3.pdb
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\bin\Debug\TextDataExamen_3.exe.config
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\bin\Debug\TextDataExamen_3.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\bin\Debug\TextDataExamen_3.pdb
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.AssemblyReference.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\MainWindow.g.cs
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\App.g.cs
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3_MarkupCompile.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3_MarkupCompile.lref
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\MainWindow.baml
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.g.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.Properties.Resources.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.GenerateResource.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.csproj.CoreCompileInputs.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 3\TextDataExamen_3\obj\Debug\TextDataExamen_3.pdb

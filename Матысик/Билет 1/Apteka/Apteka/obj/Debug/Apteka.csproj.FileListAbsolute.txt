@@ -1,0 +1,45 @@
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\Apteka.exe.config
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\Apteka.exe
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\Apteka.pdb
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\EntityFramework.dll
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\EntityFramework.xml
+D:\Билеты01.01\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.Form1.resources
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.csproj.Up2Date
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.exe
+D:\Билеты01.01\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.Form1.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.csproj.Up2Date
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 1\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\eurapatea\Desktop\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.Form1.resources
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.csproj.Up2Date
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\eurapatea\Desktop\Apteka\Apteka\obj\Debug\Apteka.pdb
