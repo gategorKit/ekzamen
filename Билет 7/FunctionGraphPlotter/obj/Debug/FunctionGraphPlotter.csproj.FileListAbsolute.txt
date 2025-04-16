@@ -1,0 +1,10 @@
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\bin\Debug\FunctionGraphPlotter.exe.config
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\bin\Debug\FunctionGraphPlotter.exe
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\bin\Debug\FunctionGraphPlotter.pdb
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.csproj.AssemblyReference.cache
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.Form1.resources
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.Properties.Resources.resources
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.csproj.GenerateResource.cache
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.csproj.CoreCompileInputs.cache
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.exe
+C:\Users\svetl\OneDrive\Рабочий стол\Билеты ре\МДК 01 01\Задание 7\FunctionGraphPlotter\FunctionGraphPlotter\obj\Debug\FunctionGraphPlotter.pdb

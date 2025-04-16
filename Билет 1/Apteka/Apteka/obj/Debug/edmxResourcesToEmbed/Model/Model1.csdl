@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MedicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Med">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Descript" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Pathologic" Type="Int32" Nullable="false" />
+    <Property Name="Partner" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Diognas" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Form" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cost" Type="Int32" Nullable="false" />
+    <Property Name="Skidka" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Pathologic1" Relationship="Self.FK_Med_Pathologic" FromRole="Med" ToRole="Pathologic" />
+  </EntityType>
+  <EntityType Name="Pathologic">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Med" Relationship="Self.FK_Med_Pathologic" FromRole="Pathologic" ToRole="Med" />
+  </EntityType>
+  <Association Name="FK_Med_Pathologic">
+    <End Role="Pathologic" Type="Self.Pathologic" Multiplicity="1" />
+    <End Role="Med" Type="Self.Med" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pathologic">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Med">
+        <PropertyRef Name="Pathologic" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MedicEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Med" EntityType="Self.Med" />
+    <EntitySet Name="Pathologic" EntityType="Self.Pathologic" />
+    <AssociationSet Name="FK_Med_Pathologic" Association="Self.FK_Med_Pathologic">
+      <End Role="Pathologic" EntitySet="Pathologic" />
+      <End Role="Med" EntitySet="Med" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

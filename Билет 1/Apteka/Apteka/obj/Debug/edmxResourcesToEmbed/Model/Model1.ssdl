@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище MedicModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Med">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Descript" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Pathologic" Type="int" Nullable="false" />
+    <Property Name="Partner" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Diognas" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Form" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cost" Type="int" Nullable="false" />
+    <Property Name="Skidka" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pathologic">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Med_Pathologic">
+    <End Role="Pathologic" Type="Self.Pathologic" Multiplicity="1" />
+    <End Role="Med" Type="Self.Med" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pathologic">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Med">
+        <PropertyRef Name="Pathologic" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище MedicModelContainer">
+    <EntitySet Name="Med" EntityType="Self.Med" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pathologic" EntityType="Self.Pathologic" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Med_Pathologic" Association="Self.FK_Med_Pathologic">
+      <End Role="Pathologic" EntitySet="Pathologic" />
+      <End Role="Med" EntitySet="Med" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

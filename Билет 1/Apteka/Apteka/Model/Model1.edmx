@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище MedicModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Med">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Descript" Type="nvarchar" MaxLength="200" Nullable="false" />
+          <Property Name="Pathologic" Type="int" Nullable="false" />
+          <Property Name="Partner" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Diognas" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Form" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Cost" Type="int" Nullable="false" />
+          <Property Name="Skidka" Type="float" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Pathologic">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Med_Pathologic">
+          <End Role="Pathologic" Type="Self.Pathologic" Multiplicity="1" />
+          <End Role="Med" Type="Self.Med" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Pathologic">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Med">
+              <PropertyRef Name="Pathologic" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище MedicModelContainer">
+          <EntitySet Name="Med" EntityType="Self.Med" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Pathologic" EntityType="Self.Pathologic" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Med_Pathologic" Association="Self.FK_Med_Pathologic">
+            <End Role="Pathologic" EntitySet="Pathologic" />
+            <End Role="Med" EntitySet="Med" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MedicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Med">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Descript" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Pathologic" Type="Int32" Nullable="false" />
+          <Property Name="Partner" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Diognas" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Form" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Cost" Type="Int32" Nullable="false" />
+          <Property Name="Skidka" Type="Double" Nullable="false" />
+          <NavigationProperty Name="Pathologic1" Relationship="Self.FK_Med_Pathologic" FromRole="Med" ToRole="Pathologic" />
+        </EntityType>
+        <EntityType Name="Pathologic">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Med" Relationship="Self.FK_Med_Pathologic" FromRole="Pathologic" ToRole="Med" />
+        </EntityType>
+        <Association Name="FK_Med_Pathologic">
+          <End Role="Pathologic" Type="Self.Pathologic" Multiplicity="1" />
+          <End Role="Med" Type="Self.Med" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Pathologic">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Med">
+              <PropertyRef Name="Pathologic" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MedicEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Med" EntityType="Self.Med" />
+          <EntitySet Name="Pathologic" EntityType="Self.Pathologic" />
+          <AssociationSet Name="FK_Med_Pathologic" Association="Self.FK_Med_Pathologic">
+            <End Role="Pathologic" EntitySet="Pathologic" />
+            <End Role="Med" EntitySet="Med" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище MedicModelContainer" CdmEntityContainer="MedicEntities">
+          <EntitySetMapping Name="Med">
+            <EntityTypeMapping TypeName="MedicModel.Med">
+              <MappingFragment StoreEntitySet="Med">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Descript" ColumnName="Descript" />
+                <ScalarProperty Name="Pathologic" ColumnName="Pathologic" />
+                <ScalarProperty Name="Partner" ColumnName="Partner" />
+                <ScalarProperty Name="Diognas" ColumnName="Diognas" />
+                <ScalarProperty Name="Form" ColumnName="Form" />
+                <ScalarProperty Name="Cost" ColumnName="Cost" />
+                <ScalarProperty Name="Skidka" ColumnName="Skidka" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Pathologic">
+            <EntityTypeMapping TypeName="MedicModel.Pathologic">
+              <MappingFragment StoreEntitySet="Pathologic">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

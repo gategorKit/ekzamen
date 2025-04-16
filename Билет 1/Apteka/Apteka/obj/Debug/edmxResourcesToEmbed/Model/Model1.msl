@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище MedicModelContainer" CdmEntityContainer="MedicEntities">
+    <EntitySetMapping Name="Med">
+      <EntityTypeMapping TypeName="MedicModel.Med">
+        <MappingFragment StoreEntitySet="Med">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Descript" ColumnName="Descript" />
+          <ScalarProperty Name="Pathologic" ColumnName="Pathologic" />
+          <ScalarProperty Name="Partner" ColumnName="Partner" />
+          <ScalarProperty Name="Diognas" ColumnName="Diognas" />
+          <ScalarProperty Name="Form" ColumnName="Form" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Skidka" ColumnName="Skidka" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pathologic">
+      <EntityTypeMapping TypeName="MedicModel.Pathologic">
+        <MappingFragment StoreEntitySet="Pathologic">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

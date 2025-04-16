@@ -1,0 +1,34 @@
+D:\Билеты01.01\Games\Games\obj\Debug\Games.csproj.AssemblyReference.cache
+D:\Билеты01.01\Games\Games\obj\Debug\Games.Form1.resources
+D:\Билеты01.01\Games\Games\obj\Debug\Games.Properties.Resources.resources
+D:\Билеты01.01\Games\Games\obj\Debug\Games.csproj.GenerateResource.cache
+D:\Билеты01.01\Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+D:\Билеты01.01\Games\Games\bin\Debug\Games.exe.config
+D:\Билеты01.01\Games\Games\bin\Debug\Games.exe
+D:\Билеты01.01\Games\Games\bin\Debug\Games.pdb
+D:\Билеты01.01\Games\Games\bin\Debug\EntityFramework.dll
+D:\Билеты01.01\Games\Games\bin\Debug\EntityFramework.SqlServer.dll
+D:\Билеты01.01\Games\Games\bin\Debug\EntityFramework.xml
+D:\Билеты01.01\Games\Games\bin\Debug\EntityFramework.SqlServer.xml
+D:\Билеты01.01\Games\Games\bin\Debug\ru\EntityFramework.resources.dll
+D:\Билеты01.01\Games\Games\obj\Debug\Games.csproj.Up2Date
+D:\Билеты01.01\Games\Games\obj\Debug\Games.exe
+D:\Билеты01.01\Games\Games\obj\Debug\Games.pdb
+D:\Билеты01.01\Games\Games\obj\Debug\Games.FormAddGame.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\Games.exe.config
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\Games.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\Games.pdb
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\EntityFramework.dll
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\EntityFramework.xml
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.csproj.AssemblyReference.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.Form1.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.FormAddGame.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.Properties.Resources.resources
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.csproj.GenerateResource.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.csproj.Up2Date
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.exe
+C:\Users\eurapatea\Downloads\ekzamen-bilets\ekzamen-bilets\Матысик\Билет 4\Games\Games\obj\Debug\Games.pdb
